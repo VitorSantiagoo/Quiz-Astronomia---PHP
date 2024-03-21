@@ -1,2 +1,2 @@
 # Quiz-Astronomia---PHP
-Trabalho feito por Vitor Santiago e Carlos Magno
+Trabalho feito por Vitor Santiago & Carlos Magno & Victor Cerdeira
